@@ -46,7 +46,7 @@ import kotlinx.coroutines.delay
 @SuppressLint("UnusedMaterial3ScaffoldPaddingParameter")
 @OptIn(ExperimentalAnimationApi::class, ExperimentalMaterial3Api::class)
 @Composable
-fun Carousal(
+fun ComposableCarousal(
     carouselItems: List<Int>,
     showDots: Boolean = true,
     delayMillis: Long = 3000L
