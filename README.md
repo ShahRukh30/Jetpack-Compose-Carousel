@@ -4,7 +4,8 @@ This is a simple Android app showcasing a carousel implemented using Jetpack Com
 
 ## Demo
 
-[![Carousel Demo](https://img.youtube.com/vi/Ud4MFpWRDyA/0.jpg)](https://www.youtube.com/watch?v=Ud4MFpWRDyA)
+![Carousel Demo]([URL_TO_YOUR_GIF](https://imgur.com/a/tzlGtLd))
+
 
 ## Features
 
