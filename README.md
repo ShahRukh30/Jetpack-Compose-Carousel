@@ -2,9 +2,10 @@
 
 This is a simple Android app showcasing a carousel implemented using Jetpack Compose, a modern toolkit for building native UI in Android. The carousel displays a series of images that automatically scroll through at a specified interval.
 
-## Demo
 
-![Carousel Demo]([URL_TO_YOUR_GIF](https://imgur.com/a/tzlGtLd))
+## Carousel in Action
+
+[![Carousel Demo](https://img.youtube.com/vi/Ud4MFpWRDyA/0.jpg)](https://www.youtube.com/watch?v=Ud4MFpWRDyA)
 
 
 ## Features
